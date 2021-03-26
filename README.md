@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am yingqi.ge, a young and passionate developer from china with a strong interest in container storage technology
 
 
-- 🔭 I’m currently working on kubernetes storage
+- 🔭 I’m currently working on kubernetes
 - 📫 How to reach me: geyingqi0701@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=mowangdk&theme=dark)
