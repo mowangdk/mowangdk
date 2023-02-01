@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am yingqi.ge, a young and passionate developer from china with a strong interest in container storage technology
+I am yingqi.ge, a young and passionate developer with a strong interest in container storage technology
 
 
 - 🔭 I’m currently working on kubernetes, golang
