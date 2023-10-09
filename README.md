@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 I am yingqi.ge, a young and passionate developer with a strong interest in container storage technology
 
-Preparing for the wedding. quite busy right now ~
-
 - 🔭 I’m currently working on kubernetes, golang
 - 📫 How to reach me: geyingqi0701@gmail.com
 
